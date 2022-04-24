@@ -1,8 +1,2 @@
 # mananjabrik
-echo "# mananjabrik" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/mananjabrik/mananjabrik.git
-git push -u origin master
+<a href="https://app.daily.dev/Mananjabrik"><img src="https://api.daily.dev/devcards/69e8f083c70f4db196928422506ad420.png?r=ktt" width="400" alt="Manan's Dev Card"/></a>
