@@ -2,4 +2,5 @@
 
 unafraid to try repeatedly until achieve the best possible results. adapting seamlessly to any environment. Challenges are not obstacles, they are opportunities to learn, grow, and achieve greatness.
 
-https://viteconf.org/24/tickets/mananjabrik?p=Vite
+
+![vite](https://github.com/user-attachments/assets/5852241e-910d-479f-a0de-445dd4ca6f25)
