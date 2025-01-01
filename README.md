@@ -6,17 +6,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. Here you'll find a collection of my projects, contributions, and some insights into my coding journey.
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Open Source Project or Topic]
-- 🤔 I’m looking for help with [Project or Topic]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email or Contact Information]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [Something Interesting About You]
-
 ## 🛠️ Technologies & Tools
 
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -35,8 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
-- Personal Website: [Your Website](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdul-manan-48638198)
+- Twitter: [Your Twitter Profile](https://twitter.com/manan_jabrik)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
