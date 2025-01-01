@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - Web Development: ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - Data Science: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 - Tools & Platforms: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
