@@ -13,11 +13,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Data Science: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 - Tools & Platforms: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📂 Top Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mananjabrik&repo=repo-name&theme=radical)](https://github.com/mananjabrik/porop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mananjabrik&repo=repo-name&theme=radical)](https://github.com/mananjabrik/nft-bnb-opensea)\
-
 ## 📫 Get in Touch
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdul-manan-48638198)
