@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📂 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mananjabrik&repo=repo-name&theme=radical)](https://github.com/mananjabrik/repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mananjabrik&repo=repo-name&theme=radical)](https://github.com/mananjabrik/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mananjabrik&repo=repo-name&theme=radical)](https://github.com/mananjabrik/porop)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mananjabrik&repo=repo-name&theme=radical)](https://github.com/mananjabrik/nft-bnb-opensea)\
 
 ## 📫 Get in Touch
 
